@@ -21,3 +21,9 @@ img {
 .choco {
     background-color: darkcyan;
 }
+
+/************************* ID SELECTORS***************************/
+
+#heading {
+    color: black;
+}
